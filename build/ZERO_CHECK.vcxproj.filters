@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\prahlad\JSBSim_Middleware\jsbsim_middleware\build\CMakeFiles\1bd5cf902d664589a0f10c3709909a9e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{03969C1F-2A32-39CB-B05E-B47BCF650577}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
